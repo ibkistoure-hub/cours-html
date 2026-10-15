@@ -34,4 +34,6 @@ button{
     color: aliceblue;
     margin-bottom: 10px;
 }
-.marque
+.marque{
+    text-align: center;
+}
