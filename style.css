@@ -5,12 +5,18 @@ body{
 }
 header{
     background-color: yellow;
+    margin-top: 20px;
+    padding: 20px;
 }
 main{
     background-color: green;
+    margin-top: 20px;
+    padding: 20px;
 }
 footer{
     background-color: blue;
+    margin-top: 20px;
+    padding: 20px;
 }
 div
 {
